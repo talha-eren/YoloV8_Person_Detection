@@ -4,7 +4,7 @@ My project uses artificial intelligence to help us distinguish people and object
 
 The project was created with the help of Roboflow and yolov8. It was processed with Python.
 
-
+You can reach via runs/detect/predict6/yürüme.mp4
 
 
  
